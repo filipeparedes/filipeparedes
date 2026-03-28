@@ -1,16 +1,26 @@
-## Hi there 👋
+# Filipe Paredes
 
-<!--
-**filipeparedes-dev/filipeparedes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | .NET, React, Python, Java, SQL
 
-Here are some ideas to get you started:
+## 🚀 About me
+Experienced in web, mobile and game development.  
+Skilled in building and maintaining software using C#, .NET Core MVC, React, Python, and Java.  
+Capable of contributing effectively to team projects or develop small-to-medium applications independently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+Check out my personal portfolio: [filipeparedes.dev](https://your-portfolio-link.com)
+
+## 🛠️ Tech Stack
+- **Frontend:** React, HTML, CSS, JS  
+- **Backend:** C#, .NET Core MVC, Node.js, Java  
+- **Mobile:** React Native  
+- **Data:** Python  
+- **Database:** SQL  
+- **Games:** Unity 2D & 3D  
+
+## 📌 Main Projects
+- 
+
+## 📫 Contact
+- LinkedIn: [Filipe Paredes](https://www.linkedin.com/in/filipe-paredes-b4b940258/)  
+- Email: filipeparedes3@gmail.com

@@ -8,7 +8,6 @@ Skilled in building and maintaining software using C#, .NET Core MVC, React, Pyt
 Capable of contributing effectively to team projects or develop small-to-medium applications independently.
 
 ## 🌐 Portfolio
-Check out my personal portfolio: [filipeparedes.dev](https://your-portfolio-link.com)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, HTML, CSS, JS  

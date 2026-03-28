@@ -23,11 +23,9 @@ Software Developer | .NET, React, Python, Java, SQL
 ## 📌 Main Projects
 - 
 
-<h3>My GitHub contributions summary</h3>
+<h3>My GitHub Contributions</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filipeparedes-dev&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeparedes-dev&show_icons=true&theme=dark)
 
 ## 📫 Contact
 - LinkedIn: [Filipe Paredes](https://www.linkedin.com/in/filipe-paredes-b4b940258/)  

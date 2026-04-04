@@ -1,6 +1,6 @@
 # Filipe Paredes
 
-Software Developer | .NET, React, C, C++, SQL
+Software Developer | C/C++, .NET, React, SQL
 
 ## 🌐 Portfolio
 

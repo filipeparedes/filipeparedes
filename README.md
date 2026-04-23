@@ -22,6 +22,3 @@ Backend Developer | C/C++, .NET, Python
 ![Confluence](https://img.shields.io/badge/confluence-%23172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%23005EB8.svg?style=for-the-badge&logo=trello&logoColor=white)
-
-## 💻 GitHub Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=filipeparedes&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)

@@ -1,8 +1,10 @@
-# Filipe Paredes
+# 👋 Hey there!
+
+Filipe Paredes
 
 Backend Developer | C/C++, .NET, Python
 
-## 🌐 Portfolio
+filipeparedes.dev
 
 ## 🛠️ Technologies
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)

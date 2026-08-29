@@ -28,5 +28,3 @@ Also know my way around TypeScript + React, but tend to focus more on the previo
 
 - 🎓 Final year of Computer Engineering @ Instituto Politécnico de Setúbal
 - 🔨 Building [cppsh](https://github.com/filipeparedes/cppsh) — a Unix shell in C++
-- 🔨 Building [sidequestd](https://github.com/filipeparedes/sidequestd) — a Mobile App in React Native
-- 👀 Looking for my first opportunity as a Backend Engineer

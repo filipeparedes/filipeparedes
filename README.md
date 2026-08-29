@@ -1,8 +1,8 @@
 # Hey, I'm Filipe 👋
 
-Final-year Computer Engineering student based in Portugal, focused on backend development and systems programming. I work mostly in C, C++, C# and Python, from low-level systems and memory management to modern backend architectures with ASP.NET Core. Have built backends in a SaaS context and implemented modular architectures. 
+Final-year Computer Engineering student based in Portugal, focused on systems programming. I work mostly in C, C++ and Python, with a high interest in low-level systems, memory management, and performance.
 
-Also know my way around TypeScript + React, but tend to focus more on the previously mentioned languages.
+Also know my way around TypeScript, C# and SQL, but tend to focus more on the previously mentioned languages.
 
 **[Personal Portfolio Website](https://filipeparedes.dev)**
 

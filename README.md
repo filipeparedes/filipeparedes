@@ -26,5 +26,5 @@ Also know my way around TypeScript, C# and SQL, but tend to focus more on the pr
 
 ## Currently
 
-- 🎓 Final year of Computer Engineering @ Instituto Politécnico de Setúbal
-- 🔨 Building [cppsh](https://github.com/filipeparedes/cppsh) — a Unix shell in C++
+- 🎓 Final year of Computer Engineering @ Universidade Politécnica de Setúbal
+- 🔨 Building [cppsh](https://github.com/filipeparedes/nubilo) — a Personal File Synchronization System in C++

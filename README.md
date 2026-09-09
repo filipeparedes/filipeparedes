@@ -27,4 +27,4 @@ Also know my way around TypeScript, C# and SQL, but tend to focus more on the pr
 ## Currently
 
 - 🎓 Final year of Computer Engineering @ Universidade Politécnica de Setúbal
-- 🔨 Building [cppsh](https://github.com/filipeparedes/nubilo) — a Personal File Synchronization System in C++
+- 🔨 Building [nubilo](https://github.com/filipeparedes/nubilo) - a Personal File Synchronization System in C++

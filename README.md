@@ -21,6 +21,6 @@ Also know my way around TypeScript, C# and SQL, but tend to focus more on the pr
 
 ## Currently
 
-- 💼 Junior Software Engineer @ Nokia | Optical Networks
+- 💼 Junior Software Engineer @ Nokia
 - 🎓 Final year of Computer Engineering @ Universidade Politécnica de Setúbal
 - 🔨 Building [nubilo](https://github.com/filipeparedes/nubilo) - a Personal File Synchronization System in C++
